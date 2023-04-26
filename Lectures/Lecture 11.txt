@@ -1,0 +1,2 @@
+Parallel computing in big data part 1      https://levelup.gitconnected.com/introduction-to-parallel-computing-in-big-data-analysis-part-1-959024183b73
+Parallel computing in big data part 1      https://levelup.gitconnected.com/introduction-to-parallel-computing-in-big-data-analysis-part-2-62f761c9efcf
